@@ -1,0 +1,88 @@
+@media(max-width:3000px){
+    .feature_section {
+        padding: 150px 0;
+    }
+    .feature_imgs img {
+        width: 30%;
+    }
+    .feature_imgs {
+        width: 64%;
+        margin-left: -50px;
+    }
+}
+
+
+@media(max-width:2561px){
+    .feature_imgs img {
+        width: 35%;
+    }
+}
+
+@media(max-width:1025px){
+    .apmty {
+        width: 25%;
+    }
+.feature_imgs img {
+    width: 41%;
+}
+.service_content h4 {
+    display: inline;
+    margin-left: 15px;
+    font-size: 18px;
+    font-weight: 600;
+}
+.footer-title h2 {
+    font-size: 27px;
+}
+}
+
+
+@media(max-width:769px){
+   .banner_img{
+    position: static;
+   }
+   .height {
+    min-height:0;
+    flex-direction: column-reverse;
+   }
+    .icon {
+    font-size: 20px;
+}
+.primary_list_itm {
+    margin-left: 5px;
+}
+.primary_list_itm h4 {
+    font-size: 17px;
+}
+.temporary {
+    font-size: 10px;
+}
+.apmt h4 {
+    margin-left: 8px;
+    font-size: 13px;
+}
+.banner-carousel .owl-item img {
+    width: 50%;
+}
+.banner-carousel .second-img img {
+    width: 45% !important
+}
+.feature_content h2 {
+    font-size: 25px;
+}
+.price_table h3 {
+    font-size: 25px !important;
+}
+.banner-content h1 {
+    font-size: 29px;
+}
+.second-item h2 {
+    font-size: 20px;
+}
+}
+
+@media(max-width:575px){
+    .feature_imgs{
+        display: block;
+}
+}
